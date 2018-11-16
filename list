@@ -1,0 +1,5 @@
+# puts Employee.all.to_a.to_yaml
+
+puts Employee.first.stuff_to_do.to_a.to_yaml
+
+# puts Employee.first.company.employees.to_a.to_yaml
